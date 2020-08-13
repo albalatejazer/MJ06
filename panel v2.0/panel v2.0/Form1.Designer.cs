@@ -147,7 +147,7 @@
             this.panel2.Controls.Add(this.textBox4);
             this.panel2.Controls.Add(this.label6);
             this.panel2.Controls.Add(this.label8);
-            this.panel2.Location = new System.Drawing.Point(14, 13);
+            this.panel2.Location = new System.Drawing.Point(12, 12);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(362, 235);
             this.panel2.TabIndex = 7;
@@ -201,7 +201,7 @@
             this.panel3.Controls.Add(this.dataGridView2);
             this.panel3.Controls.Add(this.label5);
             this.panel3.Controls.Add(this.label7);
-            this.panel3.Location = new System.Drawing.Point(17, 16);
+            this.panel3.Location = new System.Drawing.Point(14, 14);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(362, 235);
             this.panel3.TabIndex = 8;
@@ -253,7 +253,6 @@
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(800, 450);
             this.panel4.TabIndex = 9;
-            this.panel4.Paint += new System.Windows.Forms.PaintEventHandler(this.panel4_Paint);
             // 
             // Form1
             // 

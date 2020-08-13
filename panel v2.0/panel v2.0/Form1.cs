@@ -44,15 +44,6 @@ namespace panel_v2._0
 
             RefreshPanels(counter);
         }
-        private void panel4_Paint(object sender, PaintEventArgs e)
-        {
-        }
-        public void Move_Form(IntPtr Handle, MouseEventArgs e)
-        {
-        }
-        private void panel1_MouseMove(object sender, MouseEventArgs e)
-        {
-        }
 
         // magsisilbing REFRESHER ng PANELS
         private void RefreshPanels(int counter)
