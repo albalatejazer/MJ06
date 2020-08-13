@@ -8,3 +8,13 @@ C:\Users\admin\source\repos\panel v2.0\panel v2.0\bin\Debug\panel v2.0.exe
 C:\Users\admin\source\repos\panel v2.0\panel v2.0\bin\Debug\panel v2.0.pdb
 C:\Users\admin\source\repos\panel v2.0\panel v2.0\obj\Debug\panel v2.0.exe
 C:\Users\admin\source\repos\panel v2.0\panel v2.0\obj\Debug\panel v2.0.pdb
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\bin\Debug\panel v2.0.exe.config
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\bin\Debug\panel v2.0.exe
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\bin\Debug\panel v2.0.pdb
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\obj\Debug\panel v2.0.csprojAssemblyReference.cache
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\obj\Debug\panel_v2._0.Form1.resources
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\obj\Debug\panel_v2._0.Properties.Resources.resources
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\obj\Debug\panel v2.0.csproj.GenerateResource.cache
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\obj\Debug\panel v2.0.csproj.CoreCompileInputs.cache
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\obj\Debug\panel v2.0.exe
+C:\Users\zekie\Source\Repos\MJ06\panel v2.0\panel v2.0\obj\Debug\panel v2.0.pdb
